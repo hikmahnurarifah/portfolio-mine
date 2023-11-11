@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hikmahnurarifah/portfolio-mine.git/static/css/main.e551a229.css",
-    "main.js": "/hikmahnurarifah/portfolio-mine.git/static/js/main.5a61ef61.js",
-    "index.html": "/hikmahnurarifah/portfolio-mine.git/index.html",
-    "main.e551a229.css.map": "/hikmahnurarifah/portfolio-mine.git/static/css/main.e551a229.css.map",
-    "main.5a61ef61.js.map": "/hikmahnurarifah/portfolio-mine.git/static/js/main.5a61ef61.js.map"
+    "main.css": "/hikmahnurarifah/portfolio-mine/static/css/main.e551a229.css",
+    "main.js": "/hikmahnurarifah/portfolio-mine/static/js/main.5a61ef61.js",
+    "index.html": "/hikmahnurarifah/portfolio-mine/index.html",
+    "main.e551a229.css.map": "/hikmahnurarifah/portfolio-mine/static/css/main.e551a229.css.map",
+    "main.5a61ef61.js.map": "/hikmahnurarifah/portfolio-mine/static/js/main.5a61ef61.js.map"
   },
   "entrypoints": [
     "static/css/main.e551a229.css",
