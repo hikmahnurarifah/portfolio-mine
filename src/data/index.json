@@ -1,0 +1,28 @@
+{
+  "hobby": [
+    {
+      "id": "1",
+      "src": "./img/music.png",
+      "title": "Music",
+      "description": "Music is generally defined as the art of arranging sound to create some combination of form, harmony, melody, rhythm, or otherwise expressive content."
+    },
+    {
+      "id": "2",
+      "src": "./img/coding.png",
+      "title": "Coding",
+      "description": "Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks."
+    },
+    {
+      "id": "3",
+      "src": "./img/maths.png",
+      "title": "Math",
+      "description": "Mathematics is an area of knowledge that includes the topics of numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes."
+    },
+    {
+      "id": "4",
+      "src": "./img/physics.png",
+      "title": "Physics",
+      "description": "Physics is the natural science of matter, involving the study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force."
+    }
+  ]
+}
